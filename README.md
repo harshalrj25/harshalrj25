@@ -9,25 +9,12 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-  
-  <br><br>[![HitCount](http://hits.dwyl.com/harshalrj25/harshalrj25.svg)](http://hits.dwyl.com/harshalrj25/harshalrj25)
-<details>
-  <summary>About me</summary>
-  <br>
-  <p>Harshal Jadhav<p>
-  <br>
-</details>
-<hr>
-<p align="center">
-Let's connect
-  <p align="center">
-    <a href="https://www.linkedin.com/in/harshal-jadhav-298ba416a/" alt="Linkedin">
+  &nbsp;&nbsp;[![HitCount](http://hits.dwyl.com/harshalrj25/harshalrj25.svg)](http://hits.dwyl.com/harshalrj25/harshalrj25)
+  <br>Let's connect<br>
+   &nbsp;<a href="https://www.linkedin.com/in/harshal-jadhav-298ba416a/" alt="Linkedin">
       <img height="20" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/linkedin.svg"></a>
-    <a href="mailto:harshalrj25@gmail.com" alt="Contact me">
+   &nbsp;  <a href="mailto:harshalrj25@gmail.com" alt="Contact me">
       <img height="20" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/gmail.svg"></a>
-  </p>
-</p>
-
 <img height="90" width="100%" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/footer4.png" alt="bottom">
 
 
