@@ -14,9 +14,20 @@
 <details>
   <summary>About me</summary>
   <br>
-  <p><i>Harshal Jadhav</i><p>
+  <p>Harshal Jadhav<p>
   <br>
 </details>
+<hr>
+<p align="center">
+Let's connect
+  <p align="center">
+    <a href="https://www.linkedin.com/in/harshal-jadhav-298ba416a/" alt="Linkedin">
+      <img height="20" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/linkedin.svg"></a>
+    <a href="mailto:harshalrj25@gmail.com" alt="Contact me">
+      <img height="20" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/gmail.svg"></a>
+  </p>
+</p>
 
+<img height="90" width="100%" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/footer4.png" alt="bottom">
 
 
