@@ -16,6 +16,6 @@
       <code><img height="30" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/linkedin.svg"></a></code>
    &nbsp;  <a href="mailto:harshalrj25@gmail.com" alt="Contact me">
       <code><img height="30" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/gmail.svg"></a></code>
-      <img height="120"  src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/mario.gif" alt="bottom">
-<hr color="red" size="10">  
+      <img align="right" height="120"  src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/mario.gif" alt="bottom">
+ 
 
