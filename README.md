@@ -14,11 +14,11 @@
     <br> 
 
 <div style="width: 100%; overflow: hidden;">
-  <div style="width: 600px; float: left;"> 
+  <div style=" float: left;"> 
     Lets connect : <a href="https://www.linkedin.com/in/harshal-jadhav-298ba416a/" alt="Linkedin">
     <code><img  height="30" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/linkedin.svg" alt="linkedin" style="width:100%"></a></code>
      </div>
-    <div style="width: 600px; float: left;">
+    <div style=" float: left;">
       <a href="mailto:harshalrj25@gmail.com" alt="Contact me">
     <code><img  height="30" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/gmail.svg" alt="gmail" style="width:100%"></a></code>
   </div>
