@@ -15,7 +15,7 @@
 
 <div style="width: 100%; overflow: hidden;">
   <div style="width: 600px; float: left;"> 
-    <a href="https://www.linkedin.com/in/harshal-jadhav-298ba416a/" alt="Linkedin">
+    Lets connect : <a href="https://www.linkedin.com/in/harshal-jadhav-298ba416a/" alt="Linkedin">
     <code><img  height="30" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/linkedin.svg" alt="linkedin" style="width:100%"></a></code>
      </div>
     <div style="width: 600px; float: left;">
