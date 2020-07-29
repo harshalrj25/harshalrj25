@@ -11,11 +11,9 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
- 
+    <br> Let's connect : 
 <div class="row">
   <div class="column">
-     <br>
-  Let's connect : 
     <a href="https://www.linkedin.com/in/harshal-jadhav-298ba416a/" alt="Linkedin">
     <code><img  height="30" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/linkedin.svg" alt="linkedin" style="width:100%"></a></code>
   </div>
