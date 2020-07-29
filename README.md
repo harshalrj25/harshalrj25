@@ -16,11 +16,11 @@
   <div class="column">
      <br>
   Let's connect : 
-    &nbsp;<a href="https://www.linkedin.com/in/harshal-jadhav-298ba416a/" alt="Linkedin">
+    <a href="https://www.linkedin.com/in/harshal-jadhav-298ba416a/" alt="Linkedin">
     <code><img  height="30" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/linkedin.svg" alt="linkedin" style="width:100%"></a></code>
   </div>
   <div class="column">
-    &nbsp;<a href="mailto:harshalrj25@gmail.com" alt="Contact me">
+   <a href="mailto:harshalrj25@gmail.com" alt="Contact me">
     <code><img  height="30" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/gmail.svg" alt="gmail" style="width:100%"></a></code>
   </div>
   <div class="column">
