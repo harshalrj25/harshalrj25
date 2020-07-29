@@ -12,10 +12,25 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 
-  <br>Let's connect : &nbsp;<a href="https://www.linkedin.com/in/harshal-jadhav-298ba416a/" alt="Linkedin">
+&nbsp;<a href="https://www.linkedin.com/in/harshal-jadhav-298ba416a/" alt="Linkedin">
       <code><img height="30" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/linkedin.svg"></a></code>
    &nbsp;  <a href="mailto:harshalrj25@gmail.com" alt="Contact me">
       <code><img height="30" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/gmail.svg"></a></code>
-      <img align="right" height="120"  src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/mario.gif" alt="bottom">
- 
+      <img align="right"  height="130" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/mario.gif" alt="bottom">
 
+ 
+<div class="row">
+  <div class="column">
+     <br>
+  Let's connect : 
+    &nbsp;<a href="https://www.linkedin.com/in/harshal-jadhav-298ba416a/" alt="Linkedin">
+    <code><img  height="30" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/linkedin.svg" alt="linkedin" style="width:100%"></a></code>
+  </div>
+  <div class="column">
+    <img height="30" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/linkedin.svg">
+  </div>
+  <div class="column">
+    <img  align="right" height="130" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/mario.gif" alt="Mountains" style="width:100%">
+  </div>
+</div>
+ 
