@@ -12,16 +12,16 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
     <br> 
-<div class="row">
-  <div class="column">
+<div>
+  <div>
     Let's connect : <a href="https://www.linkedin.com/in/harshal-jadhav-298ba416a/" alt="Linkedin">
     <code><img  height="30" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/linkedin.svg" alt="linkedin" style="width:100%"></a></code>
   </div>
-  <div class="column">
+  <div>
    <a href="mailto:harshalrj25@gmail.com" alt="Contact me">
     <code><img  height="30" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/gmail.svg" alt="gmail" style="width:100%"></a></code>
   </div>
-  <div class="column">
+  <div>
     <img  height="130" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/mario.gif" alt="Mountains" style="width:100%">
   </div>
 </div>
