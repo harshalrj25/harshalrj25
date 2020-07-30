@@ -18,7 +18,7 @@
 
 | <a href="mailto:harshalrj25@gmail.com" alt="Contact me"><img  height="30" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/gmail.svg"></a>  | <a href="https://www.linkedin.com/in/harshal-jadhav-298ba416a/" alt="Linkedin"><img  height="30" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/linkedin.svg"></a> | <img height="130" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/mario.gif"> |
 | ------------- | ------------- |  -------------  |
-| <a href="mailto:harshalrj25@gmail.com" alt="Contact me">Email me</a> |  <a href="https://www.linkedin.com/in/harshal-jadhav-298ba416a/" alt="Linkedin">LinkedIn</a>  | --- |
+| <a href="mailto:harshalrj25@gmail.com" alt="Contact me"> Contact me </a> |  <a href="https://www.linkedin.com/in/harshal-jadhav-298ba416a/" alt="Linkedin">LinkedIn profile</a>  | --- |
 
 
 
