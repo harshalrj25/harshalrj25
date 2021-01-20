@@ -1,4 +1,3 @@
-## Hi, I'm Harshal 👋🏻 👨🏻‍💻
 <img src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/banner.gif"><br>
 #### My latest blogs on medium:
 [![Harshal Jadhav Medium](https://mediumblog-cards.vercel.app/getMediumBlogs?username=harshalrj25&type=horizontal)](https://medium.com/@harshalrj25)
